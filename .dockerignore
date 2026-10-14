@@ -1,0 +1,15 @@
+.git
+.gitignore
+frontend
+.gradle
+backend/.gradle
+backend/build/*
+!backend/build/libs
+!backend/build/libs/*.jar
+.idea
+*.iml
+.vscode
+*.log
+README.md
+compose.yml
+docker-compose.yml

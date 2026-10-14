@@ -1,0 +1,12 @@
+.gradle
+build/*
+!build/libs
+!build/libs/*.jar
+.git
+.gitignore
+.idea
+*.iml
+.vscode
+*.log
+Dockerfile
+.dockerignore
